@@ -1,4 +1,4 @@
-# Reddit Cybersecurity Sentiment Analysis
+# Cybersecurity Sentiment Analysis
 
 A big data pipeline that collects posts from cybersecurity subreddits, stores them in MongoDB, and analyses their sentiment in two ways:
 
