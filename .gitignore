@@ -1,0 +1,19 @@
+# Private settings: NEVER upload
+.env
+
+# Collected Reddit data (regenerate with the notebooks)
+data/
+live_stream/
+*.csv
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
