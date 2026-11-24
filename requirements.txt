@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+ipywidgets
+praw
+pymongo
+nltk
+textblob
+vaderSentiment
+transformers
+torch
+python-dotenv
